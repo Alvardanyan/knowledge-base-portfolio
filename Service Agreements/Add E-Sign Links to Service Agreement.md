@@ -39,7 +39,9 @@ To quickly start creating a service agreement template customized for your busin
 
    c. Add E-Sign component: Drag the E-Sign component to add it to your Service Agreement Document Templates to deliver service agreement proposals electronically with an electronic signature link.
 
-6. When finished, click Save and Publish.
+   ![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/7c9bda957d4be789c677294f1c6d52d7299b65cb/images/add-e-sign-to-service-agreements-image-e0u8m7sr.png)
+
+7. When finished, click Save and Publish.
 
 # Customize E-Sign component
 
@@ -86,6 +88,8 @@ Boost your brand by customizing your email templates with information specific t
 # Send Service Agreements with E-Sign component
 
 When you customize the service agreement template to include the E-Sign component, the link appears anytime you send the SA email to a customer.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/7c9bda957d4be789c677294f1c6d52d7299b65cb/images/add-e-sign-to-service-agreements-image-6b5eugon.jpg)
 
 Note: Use these placeholders if each customer is assigned to only one business unit.
 
