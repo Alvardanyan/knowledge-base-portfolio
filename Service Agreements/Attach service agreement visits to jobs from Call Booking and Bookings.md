@@ -18,9 +18,12 @@ To attach a service agreement visit to a job from the Job Booking screen:
 1. On a call with a customer on the Call Booking screen, click Attach Visit.
 2. On the Select Service Agreement Visit pop-up that opens, select a visit you want to attach to a job and click Attach to Job.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/d3a6ab074e7501555936d693bb281dc193cecb04/images/attach-service-agreement-visit-to-job-from-call-booking-and-bookings-image-sjhy7r7k.jpg)
+
 The visit appears on a Call Booking screen and fills out the job fields.
 
 > **Note:** Click Detach Visit to remove the visit from a job.
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/4c50d0719d9f610a0bc0e5000cf6112794e07f6e/images/attach-service-agreement-visit-to-job-from-call-booking-and-bookings-image-fcoufpz6.jpg)
 
 3. Check the job details and click Book job. The service agreement visit gets attached to the job.
 
@@ -29,11 +32,9 @@ To attach a service agreement visit to a job from the Bookings screen:
 
 1. Open the booking request on the Bookings screen.
 2. Click Attach Visit.
-3. On the Select Service Agreement Visit pop-up that opens, select a visit you want to attach to a job and click Attach to Job.
-
-The visit appears on the Bookings screen and fills out the job fields.
-
-4. Check the job details and click Book job.
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/399407fe44921587e90d81da60a2da8ef007c442/images/attach-service-agreement-visit-to-job-from-call-booking-and-bookings-image-x52ftkq6.jpg)
+4. On the Select Service Agreement Visit pop-up that opens, select a visit you want to attach to a job and click Attach to Job. The visit appears on the Bookings screen and fills out the job fields.
+5. Check the job details and click Book job.
 
 ## Want to learn more?
 * See Follow up on Service agreement visits
