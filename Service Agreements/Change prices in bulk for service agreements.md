@@ -17,14 +17,14 @@ Perform bulk price changes to efficiently update multiple Service Agreements at 
 2. In the side menu, click Service Agreements.
 3. From the Service Agreements page, select the agreements you want to apply a bulk price change to.
 4. Click Actions, and from the dropdown select Change Prices.
-5. From the pop-up that opens, select how you want to apply the change:
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/fae00541e45b66c045aab88a165a82aa400d1423/images/change-prices-in-bulk-for-service-agreements-image-vcfvvzvf.jpg)
+6. From the pop-up that opens, select how you want to apply the change:
    * $ (Flat amount): Adjust the agreement price by a fixed dollar value.
    * % (Percentage-based): Adjust the agreement price by a percentage of the current total.
-6. In the Price Adjustment field, enter the value for the change.
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/b0a0b232ecb6cd2bba5ff091cd878084934cd39c/images/change-prices-in-bulk-for-service-agreements-image-f59g2k8o.jpg)
+7. In the Price Adjustment field, enter the value for the change.
 
-> **Tip:** If you want to increase the price, set a positive value. To decrease the price, add a negative value.
->
-> **Example:** Entering -3 in percentage decreases the agreement price by 3%.
+> **Tip:** If you want to increase the price, set a positive value. To decrease the price, add a negative value. Entering -3 in percentage decreases the agreement price by 3%.
 
 7. Select the box for Round to the nearest dollar to round up the new calculated price to the nearest whole dollar amount.
 8. When finished, click Increase Prices or Decrease Prices depending on the value you set.
