@@ -27,6 +27,7 @@ To attach a service agreement visit to an existing job:
 2. From the job record, scroll down to the Service Agreement Visit section.
 
 > **Note:** The box shows the total number of available service agreement visits that are unscheduled.
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/ed463841324a04e7e4b8f798c9fa746b56dc8bda/images/attach-service-agreement-visits-to-an-existing-job-image-bfymxe7c.png)
 
 3. Click Attach Visit.
 4. Select the unscheduled service agreement visit that you want to attach to the job.
@@ -36,6 +37,7 @@ To attach a service agreement visit to an existing job:
 5. Click Attach to Job.
 
 This attaches the unscheduled service agreement visit to the job.
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/7c2d9429f163aa351d9bea0b60aab1d6213c52de/images/attach-service-agreement-visits-to-an-existing-job-image-g22eppx4.png)
 
 ## Want to learn more?
 * See Follow up on Service agreement visits
