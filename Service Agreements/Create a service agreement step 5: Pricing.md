@@ -15,6 +15,7 @@ In Step 5: Pricing you can set the price of the service agreement and optionally
 ## Create pricing for a service agreement
 
 1. Click Add to add Service Agreement Pricing.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/896f407608e483f295e2a3d7f576f8410e8a005d/images/create-a-service-agreement-step-5_-pricing---replaced-on-wed-apr-08-2026-image-4t5hsb2r.png)
 2. On the Service Agreement Pricing page that opens, you can define the Total Agreement Price directly or use Markup & Surcharge.
    - Manually set the Total Agreement Price. This allows you to set the price directly without defining Markup Values or Surcharge.
      
@@ -32,6 +33,8 @@ In Step 5: Pricing you can set the price of the service agreement and optionally
      d. (Optional) Add a Surcharge for Material Cost. This value is added to the material cost amount and is used to calculate the total agreement price.
      
      e. Review the Total Agreement Price and estimated Gross Margin values to ensure that they will meet your organization's margin targets for service agreements, and click Save.
+  ![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/63d4fe6e1a385c1d63f190e1f2e1c8b1aebb46a9/images/create-a-service-agreement-step-5_-pricing---replaced-on-wed-apr-08-2026-image-coyu816a.jpg)
+
 
 ## Choose Client-Specific pricing rules for a service agreement
 
@@ -41,6 +44,7 @@ Optionally, you can add a Client-Specific Pricing rule. The selected rule will b
 
 1. In the Client-Specific Pricing section, click Choose Rule.
 2. From the Choose a Client-Specific Pricing Rule screen that opens, select a rule and click Save Rule.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e642aabcdc565ee568198a5b61bacefe744bfa14/images/create-a-service-agreement-step-5_-pricing---replaced-on-wed-apr-08-2026-image-mbf74s0l.png)
 
 > **Note:** For more information on Client-Specific Pricing Rules, see Set up unique prices with client-specific pricing, Assign labor types and client-specific pricing rate, and Apply client-specific pricing rate sheets on an invoice or estimate.
 
