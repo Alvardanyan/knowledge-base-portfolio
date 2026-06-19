@@ -24,13 +24,21 @@ Edit values on existing service agreements in bulk to streamline management and 
 
 4. Click Actions, and from the dropdown select Edit Agreements.
 
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/7959d7e5710589ce65574a02d34d5a0e0cec6946/images/edit-service-agreements-in-bulk-image-2hmfh7wj.jpg)
+
 5. From the Edit Agreements page that opens, locate and update the fields that need to be changed. Here you can:
 
    a. Use Search to find the fields you want.
 
+   ![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/955f631c5ca5dc6d4fcfcfb99ef3bc02b04137f2/images/edit-service-agreements-in-bulk-image-sdyndbit.jpg)
+
    b. Select a field, then click Replace with and choose the new value from the dropdown.
 
    > **Note:** Some fields might have the Clear selection option. This removes the current value.
+
+   ![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e833f728a87e82884898a8f875fe05f6bbeaf5e8/images/edit-service-agreements-in-bulk-image-hvhws41w.jpg)
+
+   > **Tip:** Hover the info icon to learn more about the field.
 
 6. When finished, click Apply Changes.
 
@@ -40,5 +48,3 @@ The Agreements Edited Successfully message appears to confirm that the changes h
 
 - See Follow up on service agreements
 - See Change prices in bulk for Service Agreements
-
-> **Tip:** Hover the info icon to learn more about the field.
