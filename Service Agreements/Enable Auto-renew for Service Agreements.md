@@ -54,6 +54,8 @@ Rather than creating a 20-year agreement to represent a "perpetual" customer rel
 
 5. When finished, click Save.
 
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/2c879021e31a4e4333b9d4bb507fb1be7e2dec7a/images/auto-renew-service-agreements-image-8b9bza5n.jpg)
+
 > **Note:** This setting applies only to new agreements, and it does not change existing ones.
 
 ## Enable Auto-renew per Service Agreement
@@ -62,7 +64,11 @@ Rather than creating a 20-year agreement to represent a "perpetual" customer rel
 
 1. In the agreement creation workflow, go to Step 4: Scope of Work.
 
-2. Click next to Auto-renew and from the pop-up select Enable Auto-renew.
+2. Click Edit next to Auto-renew and from the pop-up select Enable Auto-renew.
+
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/1ebd8d49ffa3cb1bbbf5641afe6d4cc9cbfb3ed9/images/auto-renew-service-agreements-image-qhnbaqz9.jpg)
+
+> **Note:** The default state of the Auto-renew comes from the service agreement template.
 
 3. When finished, click Save Changes.
 
@@ -72,11 +78,11 @@ Continue completing the remaining steps to finish creating the agreement.
 
 1. Click an active service agreement to open the Service Agreement Management view.
 
-2. Click next to Auto-renew and from the pop-up select Enabled.
+2. Click Edit next to Auto-renew and from the pop-up select Enabled.
+
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/06553c99fe2cf29289dff5447b1c0223bccd2e92/images/auto-renew-service-agreements-image-3gjb6pp4.jpg)
 
 3. Click Update Setting, and then click Enable Auto-renew.
-
-> **Note:** The default state of the Auto-renew comes from the service agreement template.
 
 > **Tip:** To view the renewal history for an agreement, click View History. Then click the Agreement ID to open that renewal version.
 
@@ -84,17 +90,15 @@ Continue completing the remaining steps to finish creating the agreement.
 
 When a service agreement renews, its billing schedule carries forward based on how your current agreement schedule is configured. There are three scenarios:
 
-- Default schedule, no changes: If your current agreement uses one of the default billing schedules (Time of Service, Upfront, Annual, Biannual, Quarterly, or Every Other Month) and you haven't modified it, the renewal agreement will automatically use that same schedule.
+- Default schedule, no changes: If your current agreement uses one of the default billing schedules (Time of Service, Upfront, Annual, Biannual, Quarterly, or Every Other Month) and you haven't modified it, the renewal agreement will automatically use that same schedule. Example: Current schedule → Quarterly (no changes) | Renewal schedule → Quarterly.
+  
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/ff6fd1ce86d1afd67720c8b38a9d42f9f40e14c7/images/auto-renew-service-agreements-image-j41r5r8h.jpg)
 
-  Example: Current schedule → Quarterly (no changes) | Renewal schedule → Quarterly.
+- Default schedule, with modifications: If your current agreement uses a default billing schedule but you have made changes to it (such as adding or removing invoices or adjusting billed amounts), the renewal agreement will revert to the original default schedule, not your modified version. Example: Current schedule → Quarterly, with the fourth invoice removed and the third invoice doubled in price | Renewal schedule → Quarterly, restored to 4 equal invoices at equal intervals.
 
-- Default schedule, with modifications: If your current agreement uses a default billing schedule but you have made changes to it (such as adding or removing invoices or adjusting billed amounts), the renewal agreement will revert to the original default schedule, not your modified version.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/14ee9c89259d376d0e59c6e1ae2a1c81f661fd46/images/auto-renew-service-agreements-image-kpt5l0a0.jpg)
 
-  Example: Current schedule → Quarterly, with the fourth invoice removed and the third invoice doubled in price | Renewal schedule → Quarterly, restored to 4 equal invoices at equal intervals.
-
-- Custom schedule: If your current agreement uses a custom billing schedule, the renewal will carry forward that same custom schedule.
-
-  Example: Current schedule → Custom | Renewal schedule → Custom.
+- Custom schedule: If your current agreement uses a custom billing schedule, the renewal will carry forward that same custom schedule. Example: Current schedule → Custom | Renewal schedule → Custom.
 
 The system automatically recalculates all dates to align with the renewal, so no manual date adjustments are needed.
 
