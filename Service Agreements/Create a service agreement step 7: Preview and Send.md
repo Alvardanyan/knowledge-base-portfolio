@@ -19,6 +19,7 @@ Preview the Service Agreement to ensure all the details are filled out correctly
 Email the Service Agreement proposal to your customers and see the email history to know precisely when an agreement was emailed.
 
 1. After reviewing the agreement in step 7 of creating a service agreement, click Send.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e30eacd8bfdcca800df493705be457f41bc7b611/images/create-a-service-agreement-step-7-preview-and-send-image-ht0hjae9.png)
 2. In the Send Service Agreement window, fill out the following fields:
    
    a. From: The email address the agreement is sent from.
@@ -28,6 +29,7 @@ Email the Service Agreement proposal to your customers and see the email history
    c. Subject: Subject of the email.
    
    d. Summary: Body of the email.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/92f8a3ba24ac12db8000f5760761a0c13d13fd9b/images/create-a-service-agreement-step-7-preview-and-send-image-n4013guw.png)
 4. Make sure the Include proposal PDF email box is checked to include the proposal PDF in the email.
 5. Click Send to email the proposal with the attached PDF to the customer.
 6. When the agreement is successfully emailed, the agreement status is automatically updated to Sent.
