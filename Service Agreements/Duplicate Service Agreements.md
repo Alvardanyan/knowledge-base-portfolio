@@ -24,6 +24,7 @@ Duplicate an agreement from:
 
 1. On the Create a service agreement step 7: Preview and Send screen, click Duplicate Agreement.
 
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/9d0baa0906ab3798a7fe87dc833ce4205f7df75e/images/duplicate-service-agreements-image-v1x904il.jpg)
 2. On the Duplicate Agreement pop-up that opens:
 
    a. Enter the Agreement Name.
@@ -34,6 +35,8 @@ Duplicate an agreement from:
 
 3. When finished, click Duplicate.
 
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/c9e55f6a54ec19d03f309e4eb1031ac9b4f595fa/images/duplicate-service-agreements-image-v1l4yely.jpg)
+
 The duplicated agreement is created in the Draft status.
 
 ## Duplicate Agreements from SA Dashboard
@@ -41,6 +44,8 @@ The duplicated agreement is created in the Draft status.
 1. Open the activated Service Agreement.
 
 2. From the SA Dashboard, click More, and then select Duplicate Agreement.
+
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/953d45a0a9abcf0b1921ec5ee0e4abec6f86ab42/images/duplicate-service-agreements-image-8hmbkqqc.jpg)
 
 3. On the Duplicate Agreement pop-up that opens:
 
