@@ -54,19 +54,18 @@ Boost your brand by customizing your email templates with information specific t
 2. On the Email Settings screen that opens, click Service Agreements.
 3. In the From fields, enter your company name and email.
 4. (Optional) In the BCC field, enter the name and email address that you want to send a blind carbon copy of the Service Agreement to. Customers cannot see the BCC recipient in their email.
+> **Note:** The BCC field is not available for E-Sign email templates.
 5. In the Subject field, enter a subject line for your email. For example, you can enter: "Your Service Agreement from [your company name]."
+> **Tip:** If you want to know which Service Agreement you're referring to, add the {ServiceAgreementName} placeholder to the Subject field.
 6. In the Body field, add placeholders for the information you want to show up on the email. Placeholders let you add customer-specific content to your templates. For example, start the email with "Hello {CustomerName}" and continue from there. When the email is sent, {CustomerName} is replaced by the full name of the customer. You can also:
 
    a. Add a clickable link to your business, as well as your company logo, to the body of the email. If you use social media, add those links, too. For more, see HTML code.
    
    b. If you run multiple businesses, use the {BusinessUnitName} and {BusinessUnitPhoneNumber} placeholders in the statement email template to help your customers identify the company they did business with in the statement email.
+   > **Note:** Use these placeholders if each customer is assigned to only one business unit.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/a000c424769a3bf4fc1240c17ba119aafb2b2cc0/images/create-a-service-agreement-step-7-preview-and-send-image-dmuk6urn.png)
 7. In the Preview section, check to ensure everything looks correct, and then click Save.
 
-> **Note:** The BCC field is not available for E-Sign email templates.
-
-> **Tip:** If you want to know which Service Agreement you're referring to, add the {ServiceAgreementName} placeholder to the Subject field.
-
-> **Note:** Use these placeholders if each customer is assigned to only one business unit.
 
 ## Want to learn more?
 
