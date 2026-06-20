@@ -4,13 +4,6 @@
 
 Link a Service Agreement (SA) to jobs and estimates as pull-through work. This ties extra work, such as repairs, installs, and replacements, back to the agreement that generated the opportunity and adds those costs and revenues into the SA's profitability metrics.
 
-## Things to know
-
-- SA Profitability pages now separate Planned Visits, Pull-Through Work, and Combined metrics.
-- When a linked estimate is sold, and its job is completed, revenue, cost, and margin flow into SA profitability automatically.
-- Only one SA can be linked per job or estimate. Choose the agreement that drove the opportunity.
-- Existing jobs or estimates can be edited to add an SA, but metrics recalculate only after you save.
-
 ## Who uses this feature
 
 - Administrators, estimators, project managers, operations managers, and CSRs
@@ -21,21 +14,29 @@ Link a Service Agreement (SA) to jobs and estimates as pull-through work. This t
 
 - Account configuration is required to use this feature. Please contact Technical Support for details.
 
+## Things to know
+
+- SA Profitability pages now separate Planned Visits, Pull-Through Work, and Combined metrics.
+- When a linked estimate is sold, and its job is completed, revenue, cost, and margin flow into SA profitability automatically.
+- Only one SA can be linked per job or estimate. Choose the agreement that drove the opportunity.
+- Existing jobs or estimates can be edited to add an SA, but metrics recalculate only after you save.
+
 ## Book calls and attach Service Agreements
 
 Link extra jobs to a service agreement and see profit in one place.
 
 1. On the Call Booking screen, locate the Service Agreement field.
 
+> **Note:** For more details on job booking, see Book a job.
+
 2. Click the Service Agreement dropdown.
 
 3. Search and select the relevant active Service Agreement that you want to associate with the job.
 
+![alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/7cb187e69fe0fd6359904e92d3aa39345fe06891/images/service-agreements-pull-through-work-image-ym6jb1bb.jpg)
 4. Complete the rest of the booking form and save.
 
 After the job is booked, it is tracked as Pull-Through Work under the selected Service Agreement.
-
-> **Note:** For more details on job booking, see Book a job.
 
 > **Note:** If you select to Attach Visit on the Call Booking screen, the job will be marked as a Service Agreement visit instead of a pull-through work.
 
@@ -50,6 +51,8 @@ Associate a job with a service agreement as a pull-through work and track its pr
 3. From the Edit Job screen, click the Service Agreement dropdown.
 
 4. From the list, select the active Service Agreement you want to link to the job.
+
+![alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/76ba91f39506c23144f6d17b9f7f5ee5c947b40a/images/service-agreements-pull-through-work-image-y6ut09eh.jpg)
 
 5. When finished, click Save.
 
@@ -84,6 +87,8 @@ To access Pull-Through Work reporting:
 1. Go to the Service Agreement that is associated with the job or estimate. For more information on locating active Service Agreements, see Service Agreement Management overview.
 
 2. From the Service Agreement side menu, click Pull-Through Work.
+
+![alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/9633047efc0c2de8fb9d221290345080e42b6825/images/service-agreements-pull-through-work-image-hpsdd7kr.jpg)
 
 3. The tab displays KPIs specific to pull-through jobs and estimates, including:
 
@@ -122,6 +127,8 @@ For more information on locating active Service Agreements, see Service Agreemen
    c. Pull-Through Gross Margin: Combined gross margin across all pull-through work.
 
    d. Pull-Through Revenue Multiplier: Compares the revenue generated from pull-through work to the revenue from planned agreement work.
+
+![alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/2db9c4e7e06e258241d98e0efeba588b40520cb7/images/service-agreements-pull-through-work-image-7wddeytv.png)
 
 4. View the Budget vs Actual table with the following KPIs:
 
