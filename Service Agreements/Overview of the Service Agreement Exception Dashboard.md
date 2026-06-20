@@ -22,6 +22,7 @@ The dashboard includes the following reports:
 - Click Bookmark next to the dashboard name to make it the default option when you open the Dashboard section.
 - Click Export next to each report to export the table in the XLSX (MS Excel) or PDF format.
 - Click Hide Filters next to each report to hide the filters from view.
+![alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/b69a81bf113a9e7367ff0680ab2976801c5c9fdf/images/service-agreements-exception-dashboard-overview-image-o18n6wf8.jpg)
 
 ## Benefits of using this dashboard
 
@@ -33,6 +34,7 @@ The dashboard includes the following reports:
 
 1. Go to the top toolbar and click Dashboard.
 2. From the Modular Dashboard dropdown, select Service Agreement Exception Dashboard.
+![alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/23f542ad489b69810f942c7b5f79524d7b718b4d/images/service-agreements-exception-dashboard-overview-image-bacq01uy.jpg)
 
 The dashboard opens.
 
