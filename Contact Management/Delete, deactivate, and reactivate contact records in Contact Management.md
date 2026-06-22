@@ -83,6 +83,8 @@ You can reactivate deactivated contact records in Contact Hub:
 
 3. Click Activate.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/a7472aa442dc30a8ba56a1d0c6bea62d7fa80f51/images/delete-deactivate-and-reactivate-contact-records-image-b8fw3b7e.png)
+
 The contact is now active and reappears on any customer or location records it was previously associated with.
 
 ## Want to Learn More?
