@@ -21,6 +21,8 @@ Create a new contact record from Contact Hub or while you’re creating or viewi
 
 1. Open Contact Hub, then click Create Contact.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/fee0a57dc0cbaeea3d28930ead42f95feb69c8d9/images/create-a-contact-record-image-46vjhabr.png)
+
 2. On the Create New Contact screen that opens, enter the contact information, then click Create.
 
 > **Note:** Contacts created from Contact Hub aren’t associated with customer or location records. After you create them, make sure to associate the contacts created from Contact Hub with the appropriate records.
@@ -48,6 +50,8 @@ Create a new contact record from Contact Hub or while you’re creating or viewi
 2. Go to the Customer Details menu on the right and look for the Contacts section.
 
 3. In the Contacts section, click Add.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/3179b921333ab0ddbe0e799499c4ce34078f3efd/images/create-a-contact-record-image-f83a6wdz.png)
 
 4. On the Associate Contact screen that opens, click the New Contact tab, enter the contact information, and then click Create and add contact.
 
