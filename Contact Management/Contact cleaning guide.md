@@ -28,6 +28,8 @@ After migrating to the new Contact Management, cleaning up your contact informat
 
 3. In the Contacts section, click View more contacts to open the full list.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/66b7162a624316b6ec4a3dc184725e9f57365207/images/contact-cleaning-guide-image-079u4g78.jpg)
+
 4. On the All Contacts drawer that opens, confirm the caller's information:
 
    a. Check if the caller already appears in the contact list. Use the search box to look up their Name, Title, or Contact Method.
@@ -39,6 +41,8 @@ After migrating to the new Contact Management, cleaning up your contact informat
    a. Edit a contact's Name, Title, or Contact Methods if needed.
 
    b. Remove a contact who is no longer involved with this customer or location. Click More and select Remove Association.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/6f7a0cccfdb88936cae12e2ef25907974ce7739d/images/contact-cleaning-guide-image-d1d8m8ta.jpg)
 
 > **Note:** This keeps the contact record but removes it from the customer or location.
 
@@ -57,6 +61,8 @@ Dispatchers often review upcoming jobs each morning or afternoon. This is a grea
 2. From the Contacts screen, click the Manage tab.
 
 3. Locate the Recommended Clean-ups section.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/a947e548b1634b32557cc793183438611626fede/images/contact-cleaning-guide-image-kjwz2cvk.jpg)
 
 4. In the table, click the contact count in the Customer or Location column to open the contacts associated with that record.
 
@@ -79,6 +85,8 @@ For most residential customers, there are usually only one or two valid contacts
 - For Commercial customers: It is recommended to dismiss the merge suggestion if you lack additional information. Alternatively, you can review the unnamed contact information by opening the customer or location in a separate tab.
 
 6. Check the Memo field to review any notes that explain the purpose of the contact method.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/c5d9992b55a7cf83a4cd405ac6b8f6913853f4b0/images/contact-cleaning-guide-image-i3rg6wqu.jpg)
 
 ## Want to learn more?
 
