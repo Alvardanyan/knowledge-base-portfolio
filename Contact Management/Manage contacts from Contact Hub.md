@@ -100,7 +100,3 @@ On the Manage tab, you can use consolidated views with automated recommendations
 
 - See Manage contacts from customer and location records
 
-
-- See Customer and Location Record
-- See Contact Management
-- See Manage contacts from customer and location records
