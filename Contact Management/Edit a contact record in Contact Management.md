@@ -27,6 +27,8 @@ You can edit contact records from Contact Hub or from any existing customer or l
 
 4. To make changes, hover over the contact’s Name, Title, Label, Address, or Contact Methods and then click Edit.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/22828632101ee0a5b6ee2d733c1498cb5aee835a/images/edit-a-contact-record-image-puo5dhbe.jpg)
+
 5. When finished, click the Check to save your changes.
 
 ## Edit a contact from a customer or location
@@ -39,6 +41,8 @@ You can edit contact records from Contact Hub or from any existing customer or l
 
 4. When finished, click Check to save your changes.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/5b066250f31888771dae8e62acdaaef94290f93c/images/edit-a-contact-record-image-h01o1j1r.jpg)
+
 ## View the history of changes made to a contact record
 
 To see the history of changes made to a contact:
@@ -50,6 +54,8 @@ To see the history of changes made to a contact:
 3. On the Contact Details screen that opens, click the Audit Trail tab.
 
 4. (Optional) Use the Calendar filter to search for the date the changes were made, or use the Username filter to search for the employee or employees who made changes.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/28b4ee595b667cd64b15bb870b08c85fa3dfcfb9/images/edit-a-contact-record-image-3pz9vbp6.png)
 
 On the Audit Trail tab, you can see all changes made to the contact’s name, title, contact methods, contact method memos, and associations. Each change includes a timestamp and the username of the office employee who made the change. This provides transparency, improves accountability, and allows you to trace and review historical changes to ensure data integrity.
 
