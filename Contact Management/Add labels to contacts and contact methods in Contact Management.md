@@ -27,6 +27,8 @@ You can add a label to a contact or contact method from Contact Hub or from any 
 
 4. Click Add labels.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/01766a8d5f68697c9a8b06a38e4496bb0563ceeb/images/add-labels-to-contacts-and-contact-methods-image-q79jbmbi.jpg)
+
 5. From the dropdown, select or create a new label.
 
 6. When finished, click Check to save the label for the contact.
@@ -56,6 +58,8 @@ You can add a label to a contact or contact method from Contact Hub or from any 
 4. In the Contact Methods section, hover over and click Edit contact method.
 
 5. From the Labels dropdown, select or create a new label.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/63a9416a05dc334992f23a38e957edfee34b9e5a/images/add-labels-to-contacts-and-contact-methods-image-5gkh9tzd.jpg)
 
 6. When finished, click Check to save the label for the contact method.
 
