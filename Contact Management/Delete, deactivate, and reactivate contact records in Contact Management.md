@@ -27,6 +27,8 @@
 
 3. Select the contact, then click Delete.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/33061041d11cff1a3b90fd15cbcc743ed4578d48/images/delete-deactivate-and-reactivate-contact-records-image-snh3nq9n.png)
+
 4. Review the confirmation pop-up that opens, then click Delete.
 
 The contact is now permanently deleted from ServiceTitan.
@@ -39,6 +41,8 @@ The contact is now permanently deleted from ServiceTitan.
 
 3. In the dropdown that opens, click Delete.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/7044701549c383b47917012668dd63c7cd61f580/images/delete-deactivate-and-reactivate-contact-records-image-go0t3za1.png)
+
 4. Review the confirmation pop-up that opens, then click Delete.
 
 The contact is now permanently deleted from ServiceTitan.
@@ -50,6 +54,8 @@ The contact is now permanently deleted from ServiceTitan.
 2. Search or filter for the contact you want to deactivate.
 
 3. Select the contact, then click Deactivate.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e41ab2a37d5b73c4bea2cef33ba1ea59fb1baabd/images/delete-deactivate-and-reactivate-contact-records-image-vn46z6en.png)
 
 4. Review the confirmation pop-up that opens, then click Deactivate.
 
