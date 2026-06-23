@@ -21,6 +21,7 @@ Contact records can hold multiple contact methods. So, if you have phone numbers
 2. Search or filter for the contacts you want to merge. You can merge up to three contacts at a time.
 3. Select the contacts you want to merge.
 4. Click Merge.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/5e2b0276154148d2115c8e3fd5113d53d829db77/images/manage-contacts-from-customer-and-location-records-image-vymsinya.png)
 5. Complete the steps to finish merging the contacts.
 
 ## Merge contacts from a customer or location record
@@ -37,6 +38,8 @@ After you click Merge to merge contacts together, the Compare Contacts screen op
 1. On the left, review the contact records you’re merging and select the name, title, and notification preferences you want the final contact to inherit.
 
 > **Note:** If the name and title of the contacts you’re merging are the same or blank, you might not see selection options on the left, but you can change or add the name and title of the final contact on the right.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/20c51f41b8e2613f045982dd03c0ddf7cff591f2/images/merge-contact-records-image-0xqnj9cm.png)
 
 If the notification preferences for the contact methods on all the contacts match, you see a message stating the preferences are consistent and no action is needed.
 
