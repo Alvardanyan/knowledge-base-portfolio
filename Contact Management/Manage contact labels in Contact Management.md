@@ -19,6 +19,7 @@ Manage all your contact labels in one centralized hub to efficiently create, edi
 
 1. Open Contact Hub, then click the Labels tab.
 2. In the Label Management section, click Create Label.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/f643b88dc3b1321e2efb4f19ddc2c69ab03ee5c5/images/manage-contact-labels-image-3rzn1bxl.png)
 3. On the Create Label pop-up that opens, click the Color square to select a color and enter a name for the label.
 4. When finished, click Create.
 
@@ -27,6 +28,7 @@ Manage all your contact labels in one centralized hub to efficiently create, edi
 1. Open Contact Hub, then click the Labels tab.
 2. In the Label Management section, enter the label name in the search field or select a label from the table.
 3. Click Edit.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/473fe1af5ebe20007d66de33cdb7f7c7f5c90d23/images/manage-contact-labels-image-bj2v7iyo.png)
 4. On the Edit Label pop-up that opens, change the color or name of the label.
 5. When finished, click Save.
 
@@ -43,7 +45,9 @@ Manage all your contact labels in one centralized hub to efficiently create, edi
 
 > **Note:** You can’t edit or delete system labels, as they are default labels created by the system. System labels have the System tag next to them. For more, see Label types.
 
-   b. Next to : Convenient for deleting a single label.
+   b. Next to Edit : Convenient for deleting a single label.
+
+   ![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/aeb74653668249bcf852cd4af978ac364b17f3af/images/manage-contact-labels-image-xsqm1qz7.png)
 
 4. On the Delete Lebel? pop-up that opens, click Delete. After you delete a label, it will be removed from all contacts associated with it.
 
