@@ -86,10 +86,9 @@ On the Manage tab, you can use consolidated views with automated recommendations
 > **Note:** Contacts without names likely need some review.
 
 - Recently Created or Edited Contacts: Review contacts created or edited within the last seven or thirty days. Click the name in the Contact column to open the details for that contact. This allows you to confirm or fix recent changes before they escalate, giving you an extra layer of control.
+> **Note:** These are residential customers or locations that have only one email and one phone number.
 
 - Title Management: Assign and edit contact titles to clarify each contact’s role within a customer or location record. Click Edit next to a title to edit that title. The number of contacts that contain that title is shown on the right. Accurate titles make it easier for employees to identify key contacts, improving the speed and accuracy of communications.
-
-> **Note:** These are residential customers or locations that have only one email and one phone number.
 
 > **Note:** You can also select titles and merge them together. This only merges the title, not the contact itself. However, any existing contacts are updated with the merged title name.
 
