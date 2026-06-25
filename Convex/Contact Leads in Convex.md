@@ -9,17 +9,11 @@ After creating your target list, you're ready to begin outreach by contacting th
 * Managers, regional managers, representatives, and salespeople
 * Primarily for Commercial Service and Commercial Construction business types
 
-## Feature configuration
-
-* Contact [marketing@convexlabs.io](mailto:marketing@convexlabs.io) to set up a demo and get more information about Convex.
-
 ## Target drawer overview
 
 Manage targets by updating their status and viewing key information.
 
 Open the target list and click the target you want to view.
-
-![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/69c90c5b92d3fa6f73699868da3d6746d7179dca/images/contact-leads-in-convex-image-beqwkbk4.jpg)
 
 The target drawer includes these sections:
 
@@ -34,8 +28,6 @@ The target drawer includes these sections:
    - Click Populate Leads to generate additional contacts for a target.
 
    - Click the contact card to open the contact details panel, which includes Contact Info, Other Info, and Activity. 
-
-![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/10ca0b07e9118874be335e90304b521e3e93546a/images/contact-leads-in-convex-image-f1q6y7dt.jpg)
 
 - Companies (if applicable)
 
@@ -68,9 +60,6 @@ After the contacts are populated for the targets, you can start contacting the l
    - **Click Send to Phone** to send the contact to yourself. From the **Send to Phone** pop-up that opens, enter your phone number and click **Send**.
 
 3. To remove the contact from the target, click the **three dots** on the contact card and select **Remove Contact**.
-
-![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/70e2b1c9615d8a62bdd4681179bb7d28780d6cf5/images/contact-leads-in-convex-image-akl12niy.jpg)
-
 
 ## Want to learn more?
 
