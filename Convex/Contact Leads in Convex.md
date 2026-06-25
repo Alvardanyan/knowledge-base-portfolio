@@ -19,31 +19,35 @@ Manage targets by updating their status and viewing key information.
 
 Open the target list and click the target you want to view.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/69c90c5b92d3fa6f73699868da3d6746d7179dca/images/contact-leads-in-convex-image-beqwkbk4.jpg)
+
 The target drawer includes these sections:
 
-* Overview        
+- Overview        
 
-Click Assignee to select an employee from the list. The employee is responsible for the contact.
+   - Click Assignee to select an employee from the list. The employee is responsible for the contact.
 
-Click Status to select a status for the lead.
+   - Click Status to select a status for the lead.
 
-* Leads        
+- Leads        
 
-Click Populate Leads to generate additional contacts for a target.
+   - Click Populate Leads to generate additional contacts for a target.
 
-Click the contact card to open the contact details panel, which includes Contact Info, Other Info, and Activity. 
+   - Click the contact card to open the contact details panel, which includes Contact Info, Other Info, and Activity. 
 
-* Companies (if applicable)
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/10ca0b07e9118874be335e90304b521e3e93546a/images/contact-leads-in-convex-image-f1q6y7dt.jpg)
 
-Click the company card to open the company details panel, which includes Company Site, Contacts at Site, Company Wide Information, and Property.
+- Companies (if applicable)
 
-* Properties (if applicable)        
+   - Click the company card to open the company details panel, which includes Company Site, Contacts at Site, Company Wide Information, and Property.
 
-Click the property card to open the property details panel. For more, see Deep dive into the property details panel.
+- Properties (if applicable)        
 
-* Activity Log        
+   - Click the property card to open the property details panel. For more, see Deep dive into the property details panel.
 
-Shows all the activities done with the target.
+- Activity Log        
+
+   - Shows all the activities done with the target.
 
 ## Contact Leads
 
@@ -64,6 +68,9 @@ After the contacts are populated for the targets, you can start contacting the l
    - **Click Send to Phone** to send the contact to yourself. From the **Send to Phone** pop-up that opens, enter your phone number and click **Send**.
 
 3. To remove the contact from the target, click the **three dots** on the contact card and select **Remove Contact**.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/70e2b1c9615d8a62bdd4681179bb7d28780d6cf5/images/contact-leads-in-convex-image-akl12niy.jpg)
+
 
 ## Want to learn more?
 
