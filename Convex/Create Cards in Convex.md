@@ -9,10 +9,6 @@ Use cards to create tasks on your board, ensuring a structured approach to your 
 * Managers, regional managers, representatives, and salespeople
 * Primarily for Commercial Service and Commercial Construction business types
 
-## Feature configuration
-
-* Contact [marketing@convexlabs.io](mailto:marketing@convexlabs.io) to set up a demo and get more information about Convex.
-
 ## Create a card
 
 You can create cards from two locations:
@@ -23,8 +19,6 @@ You can create cards from two locations:
 #### Create a card from the Property details panel (PDP)
 
 1. On the PDP, locate the Cards section and click +Add Card.
-![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/6b8c553b2d826176c0a41787c985381c7537cbf5/images/create-cards-in-convex-image-verhnrgg.png)
-
 2. A card is added automatically. Click it to open and edit.
 
 3. The card pop-up opens, where you can:
@@ -53,8 +47,6 @@ You can create cards from two locations:
 
 2. Your board view opens. Hover over the status you want to add a card and click Create New Card.
 
-![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/f101aa5d50e9f06062ebdc99653df70fb3996c63/images/create-cards-in-convex-image-pl5oxjz1.png)
-
 3. In the search property field, enter the property name, and from the dropdown suggestions, select the one you need.
 
 4. The card appears on the board, where you can:
@@ -62,7 +54,6 @@ You can create cards from two locations:
    a. Click it to edit.
 
    b. Drag and drop it to change its order or move it to another status.
-![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/09f88572dfac8db771ed001fe287331e26dfc09e/images/create-cards-in-convex-image-2g2xbgaj.png)
 
 ## Want to learn more?
 
